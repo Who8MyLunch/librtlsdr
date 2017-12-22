@@ -15,7 +15,7 @@ Relevant histories:
 - librtlsdr development: https://github.com/librtlsdr/librtlsdr/commits/development/src
 
 Commits:
-- https://github.com/kerel-fs/librtlsdr/commit/e7a5b03ef50853d3f59b37233603f87db5594a31#diff-25d902c24283ab8cfbac54dfa101ad31
+- e7a5b03ef50853d3f59b37233603f87db5594a31
 
 
 # For more information see:
