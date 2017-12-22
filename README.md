@@ -6,6 +6,11 @@
 
 rtl-sdr turns your Realtek RTL2832 based DVB dongle into a SDR receiver
 
+# Updates by Who8MyLunch
+
+I'm going to try cherry picking interesting commits from [`kerel-fs/librtlsdr/pvb/rebased`](https://github.com/kerel-fs/librtlsdr/tree/pvb/rebased) branch into my own copy of [`librtlsdr/librtlsdr/development`](https://github.com/librtlsdr/librtlsdr/tree/development) which I've named `modernize`.  Let's see how this goes.
+
+
 
 # For more information see:
 
@@ -22,7 +27,7 @@ Initial setup:
 - clone your fork locally and cd to the cloned repo's folder
 - add the upstream development repo:
     * git remote add upstream git@github.com:librtlsdr/librtlsdr.git
-- track the development branch: 
+- track the development branch:
     * git branch --track development origin/development
 
 Normal workflow:
