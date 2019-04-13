@@ -15,9 +15,12 @@ Relevant histories:
 - librtlsdr development: https://github.com/librtlsdr/librtlsdr/commits/development/src
 
 Commits:
-- r82xx: set_dithering() e7a5b03ef50853d3f59b37233603f87db5594a31
+- r82xx: set_dithering(): https://github.com/kerel-fs/librtlsdr/commit/e7a5b03ef50853d3f59b37233603f87db5594a31
 
 
+
+
+git cherry
 # For more information see:
 
 http://sdr.osmocom.org/trac/wiki/Rtl-sdr
